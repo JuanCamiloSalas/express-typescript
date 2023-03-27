@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "date": "2017-01-01",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Pretty scary flight, I'm glad I am alive"
+  },
+  {
+    "id": 2,
+    "date": "2017-02-05",
+    "weather": "sunny",
+    "visibility": "excellent",
+    "comment": "Smooth flight, great views of the landscape"
+  },
+  {
+    "id": 3,
+    "date": "2017-03-10",
+    "weather": "cloudy",
+    "visibility": "moderate",
+    "comment": "Average flight, nothing special to report"
+  },
+  {
+    "id": 4,
+    "date": "2017-04-15",
+    "weather": "stormy",
+    "visibility": "poor",
+    "comment": "One of the scariest flights I've ever had, very bumpy"
+  },
+  {
+    "id": 5,
+    "date": "2017-05-20",
+    "weather": "windy",
+    "visibility": "good",
+    "comment": "Slight turbulence, but overall a good flight"
+  },
+  {
+    "id": 6,
+    "date": "2017-06-25",
+    "weather": "sunny",
+    "visibility": "excellent",
+    "comment": "Beautiful flight, got some amazing pictures"
+  },
+  {
+    "id": 7,
+    "date": "2017-07-30",
+    "weather": "cloudy",
+    "visibility": "moderate",
+    "comment": "Uneventful flight, but the view from the window was nice"
+  },
+  {
+    "id": 8,
+    "date": "2017-08-04",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "A bit of turbulence, but the pilot handled it well"
+  },
+  {
+    "id": 9,
+    "date": "2017-09-09",
+    "weather": "windy",
+    "visibility": "good",
+    "comment": "A bit bumpy, but nothing too scary"
+  },
+  {
+    "id": 10,
+    "date": "2017-10-14",
+    "weather": "sunny",
+    "visibility": "excellent",
+    "comment": "One of the best flights I've ever had, smooth and beautiful"
+  },
+  {
+    "id": 11,
+    "date": "2017-11-19",
+    "weather": "cloudy",
+    "visibility": "moderate",
+    "comment": "A standard flight, nothing remarkable to report"
+  }
+]
